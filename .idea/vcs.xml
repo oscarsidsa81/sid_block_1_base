@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sid_product_base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sid_product_legacy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sid_stock_cfg" vcs="Git" />
   </component>
 </project>

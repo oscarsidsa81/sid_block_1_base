@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sid_block_1_base.iml" filepath="$PROJECT_DIR$/.idea/sid_block_1_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sid_product_base/.idea/sid_product_base.iml" filepath="$PROJECT_DIR$/../sid_product_base/.idea/sid_product_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sid_product_legacy/.idea/sid_product_legacy.iml" filepath="$PROJECT_DIR$/../sid_product_legacy/.idea/sid_product_legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sid_stock_cfg/.idea/sid_stock_cfg.iml" filepath="$PROJECT_DIR$/../sid_stock_cfg/.idea/sid_stock_cfg.iml" />
     </modules>
   </component>
 </project>
